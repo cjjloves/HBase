@@ -75,3 +75,6 @@ public static List<String> list()
 ```
 public static void split(String tableName,int number,int timeout)
 ```
+## 程序建表、输出表信息截图
+JPG：1  
+JPG：2
