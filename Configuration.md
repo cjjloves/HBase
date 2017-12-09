@@ -46,12 +46,12 @@ export HBASE_MANAGES_ZK=true
 bin/hdfs namenode -format  
 sbin/start-dfs.sh  
 ```
-![image](https://github.com/cjjloves/Homework6/edit/master/pictures/start-dfs.JPG)
+![Image text](https://raw.github.com/cjjloves/Homework6/master/pictures/start-dfs.JPG)
 启动hbase
 ```
 bin/start-hbase.sh  
 ```
-![image](https://github.com/cjjloves/Homework6/edit/master/pictures/start-hbase.JPG)
+![Image text](https://raw.github.com/cjjloves/Homework6/master/pictures/start-hbase.JPG)
 进入shell模式
 ```
 bin/hbase shell  
@@ -66,5 +66,5 @@ sbin/stop-dfs.sh
 ```
 ## 遇到的问题
 在运行list命令时出错  
-![image](https://github.com/cjjloves/Homework6/edit/master/pictures/problems.JPG)
+![Image text](https://raw.github.com/cjjloves/Homework6/master/pictures/problems.JPG)
 解决方法：将conf/hbase-site.xml中的配置hbase.rootdir改为hbase.root.dir
