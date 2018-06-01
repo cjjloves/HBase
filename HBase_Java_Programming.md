@@ -1,4 +1,4 @@
-# 1.hbase的Java编程
+# 5.hbase的Java编程
 ## 配置
 在hbase-site.xml增加配置  
 ```
