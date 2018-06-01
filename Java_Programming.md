@@ -1,4 +1,4 @@
-# 1.hbase的java编程
+# 1.hbase进行条件选择（Java）
 ## 配置
 在hbase-site.xml增加配置  
 ```
